@@ -4,4 +4,4 @@ const mySq = new Square(2)
 
 console.log(`Area = ${mySq.area()}`)
 
-console.log(`q ${q}`)
+console.log(`q = ${q}`)
